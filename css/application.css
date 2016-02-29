@@ -1,0 +1,40 @@
+div {
+  height:80px;
+}
+
+.short-div {
+  height:25px;
+}
+
+.div-20 {
+  height:20px;
+}
+
+.row {
+  position: relative;
+}
+
+.table .row {
+  border: solid 1px;
+}
+
+.vertical-center {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-12, .col-sm-4, .col-sm-7, .col-sm-6,
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-12, .col-xs-4, .col-xs-7, .col-xs-6 {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-gray {
+  background-color: gray;
+}

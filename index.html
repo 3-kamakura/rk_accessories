@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>せっかくだからmithril.js使ってFF用ツールを作ってみる</title>
+  <!--title>FFRK - アクセサリー</title-->
+  <!-- BootstrapのCSS読み込み -->
+  <link href="./css/bootstrap.min.css" rel="stylesheet" />
+  <link href="./css/application.css" rel="stylesheet" />
+  <script src="./js/mithril.min.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div id="$accessoryComponent"></div>
+  </div>
+</body>
+
+<script type="text/javascript">
+
+var xhrConfig = function(xhr) {
+    xhr.setRequestHeader("Content-Type", "application/json");
+}
+
+var accessoryComponent = {
+    controller: function () {
+        this.list = m.request({method: 'GET', url: './accessory.json', config: xhrConfig});
+    },
+    view: function (ctrl) {
+        return table(ctrl);
+    }
+};
+
+function table(ctrl) {
+    return m(".table.table-striped", [
+        m(".row", [
+            m(".col-sm-2.col-xs-2", ""),
+            m(".col-sm-2.col-xs-2", "名前"),
+            m(".col-sm-1.col-xs-1", "シリーズ"),
+            m(".col-sm-1.col-xs-1", "レア"),
+            m(".col-sm-6.col-xs-6", "耐性"),
+        ]),
+        ctrl.list().map(function(item) {
+            return m("div", {class: "row"}, [
+                m("div", {class: "col-sm-2 col-xs-2 bg-gray"}, [
+                  ""
+                  <!-- m("img", {src: "./images/fce5b851-c2ba-3716-bcb7-5e09c08556d8.png", class: "img-responsive"}) -->
+                ]),
+                m("div", {class: "col-sm-2 col-xs-2"}, item.name),
+                m("div", {class: "col-sm-1 col-xs-1"}, item.series),
+                m("div", {class: "col-sm-1 col-xs-1"}, item.rare),
+                m("div", {class: "col-sm-6 col-xs-6"}, [
+                  m("div", {class: "col-sm-12 col-xs-12 div-20"}, [
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "炎"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "氷"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "雷"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "水"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "地"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "風"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "聖"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "闇"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "毒"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "")
+                  ]),
+                  m("div", {class: "col-sm-12 col-xs-12 div-20"}, [
+                    m("div", {class: "col-sm-1 col-xs-1 div-20 bg-red"}, item.attributions[0].potency),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "")
+                  ]),
+                  m("div", {class: "col-sm-12 col-xs-12 div-20"}, [
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "暗"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "麻"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "混"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "沈"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "睡"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "毒"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "石"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "遅"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "停"),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "死")
+                  ]),
+                  m("div", {class: "col-sm-12 col-xs-12 div-20"}, [
+                    m("div", {class: "col-sm-1 col-xs-1 div-20 bg-red"}, item.attributions[0].potency),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, ""),
+                    m("div", {class: "col-sm-1 col-xs-1 div-20"}, "")
+                  ]),
+                ]),
+            ])
+        })
+    ]);
+}
+
+
+m.mount($accessoryComponent, accessoryComponent);
+
+</script>

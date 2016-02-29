@@ -1,0 +1,2126 @@
+[
+  {
+    "id": 1,
+    "name": "パワーリスト",
+    "image": "bdd68c51-2fcf-3cea-9c20-7f151eb210a7.png",
+    "series": 7,
+    "rare": 1,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "イヤリング",
+    "image": "ae59a6b3-8016-34c9-be83-47b3bfbf13b0.png",
+    "series": 7,
+    "rare": 2,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "タリスマン",
+    "image": "bab3a4ad-f21b-3a2d-918d-73b4610a150f.png",
+    "series": 7,
+    "rare": 2,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "炎の指輪",
+    "image": "645b4997-2408-3bee-ad18-37a27e22eed9.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "冷気の指輪",
+    "image": "d3acf291-ded7-3f8e-96d1-1882fbcebf80.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "氷",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "雷の指輪",
+    "image": "7a4b8b8c-8ad9-3a9b-b1a1-2fa80cb74776.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "雷",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "水の指輪",
+    "image": "1bb5ab5f-bb67-3254-b10f-e7895ffc8729.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "水",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "チョコボのはね",
+    "image": "68ac0db3-fbfd-31aa-b736-7a0562d6d57a.png",
+    "series": 7,
+    "rare": 2,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "星のペンダント",
+    "image": "604cf4fd-2d69-3d1b-8b08-e35f37671ec5.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "毒耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "銀縁メガネ",
+    "image": "029ef92c-7288-3f43-9110-de82ed88c08d.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "暗闇耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "守りの指輪",
+    "image": "e090ec54-235f-3b2e-93b8-52a958f8241a.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "安らぎの指輪",
+    "image": "d444664c-74a1-34de-b007-d79c043ed9c3.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "混乱耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "バリアリング",
+    "image": "3c940ba2-681e-33e7-9d89-8e990f1eb335.png",
+    "series": 6,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "スナイパーアイ",
+    "image": "8c873d68-ef93-3c52-8fb7-39bfe58f6030.png",
+    "series": 6,
+    "rare": 1,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "ジュエルリング",
+    "image": "bf25076e-6c31-3be0-a168-613f361f299d.png",
+    "series": 6,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "石化耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "天使の羽",
+    "image": "7851c371-a02e-3ead-84e8-b5796e60ac23.png",
+    "series": 6,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "ハイパーリスト",
+    "image": "17883a59-a941-35d8-9ae2-0661bae108e7.png",
+    "series": 6,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "ブレイブリング",
+    "image": "383f4ec2-e80f-367c-b8de-90a3d0c2bd81.png",
+    "series": 6,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "天使の指輪",
+    "image": "4418e568-065f-3240-873a-336e304984d4.png",
+    "series": 5,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "エルフのマント",
+    "image": "d7189157-9116-35e7-992e-47d38b45c258.png",
+    "series": 5,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "パワーリスト重式",
+    "image": "1969b959-6a19-355d-9efc-c01bdf6fabf8.png",
+    "series": 13,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "セーフティビット",
+    "image": "a873b316-ff6c-31b4-8898-133b5ad522d0.png",
+    "series": 10,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "高"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "タフネスリング",
+    "image": "11bb018d-c1c2-3855-914c-24d94f9c9c2e.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "ポイズンリング",
+    "image": "a7b103eb-6b95-34d6-a09f-9a8f432193f8.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "毒",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "毒耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "ジュエルリング",
+    "image": "5cfdd82b-4da6-3942-a5e5-6dba612e1cef.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "石化耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "ホワイトケープ",
+    "image": "d8017a86-15ed-375b-8b20-c270d0876f9d.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "沈黙耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "フェアリーリング",
+    "image": "be966c22-f806-3bf4-92af-8d56ac802f73.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "毒耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "アミュレット",
+    "image": "3bb7b4d9-ea87-3c4e-b324-b240ac3634a1.png",
+    "series": 6,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "マッスルベルト",
+    "image": "19dad937-1136-333b-8443-03e5574f3e52.png",
+    "series": 6,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 300
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "パワーリスト",
+    "image": "57f599db-ba15-3aed-9b8a-a65feb033c6e.png",
+    "series": 4,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "ガントレット",
+    "image": "286ee691-216f-31c7-b7ae-9449dce42b08.png",
+    "series": 4,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "星のペンダント",
+    "image": "8c908655-e37d-3e92-9268-d76a1d4a27aa.png",
+    "series": 10,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "毒耐性",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "最大HP+",
+        "potency": 300
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "薔薇のコサージュ",
+    "image": "c81bf9d8-4393-3f6b-abb0-5b031ac93130.png",
+    "series": 12,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "沈黙耐性",
+        "potency": "高"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "守りの指輪",
+    "image": "9008c660-d19d-3961-86af-9bcd58789b16.png",
+    "series": 3,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "パワーベルト",
+    "image": "5da69150-9e86-3381-870f-a606a01f9002.png",
+    "series": 9,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "黒帯",
+    "image": "487a1f2d-f0a7-3ae7-a71f-03b03c32de06.png",
+    "series": 9,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "ジェネラルベルト",
+    "image": "623f3780-8466-33e5-a8bf-074ada06b3ab.png",
+    "series": 13,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "守りの指輪",
+    "image": "0886e55a-ca3a-3bac-9e2f-f3ff271a12c7.png",
+    "series": 5,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 500
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "カメのこうら",
+    "image": "f0e706a5-c799-39d9-bc39-a512f433fc29.png",
+    "series": 8,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "ハイパーリスト",
+    "image": "9ba0e3a1-598c-32e0-bfb9-7eeca7f5694b.png",
+    "series": 8,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 41,
+    "name": "クリスタルリング",
+    "image": "8ddc281e-88c5-398d-b5a4-c1f5303668c4.png",
+    "series": 1,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "睡眠耐性",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "麻痺耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "name": "サッシュ",
+    "image": "72cba7d0-24c0-3f5b-a8f4-b2130ba97f4d.png",
+    "series": 12,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "スロウ耐性",
+        "potency": "高"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "ドワーフの角",
+    "image": "b4122600-921d-3349-bead-509b6ea980e8.png",
+    "series": 3,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "白の香り",
+    "image": "fc435147-9a59-3b0b-b853-9bb8a8ebce43.png",
+    "series": 3,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "ルーンの腕輪",
+    "image": "855c9333-a1c2-31ee-a994-19cbf289388e.png",
+    "series": 4,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "砂漠の光",
+    "image": "ae55eed3-1309-3119-8de1-de9c8f1ef412.png",
+    "series": 4,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 47,
+    "name": "ボムの指輪",
+    "image": "64d3dd14-60c7-36a0-be9c-6d513067e86c.png",
+    "series": 4,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "怒りの指輪",
+    "image": "39c811d7-4ccc-3d4e-94fd-88a90766a5c9.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 150
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "信心のタリスマン",
+    "image": "abdbd597-a615-3967-a1e3-ac39ac5e46b6.png",
+    "series": 13,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "暗闇耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "守りの指輪",
+    "image": "53f60ea1-a87d-3f28-bf16-9112263b775d.png",
+    "series": 2,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": "バッカスの酒",
+    "image": "2f4b85cc-6d9d-3d8a-8ab9-1aa08a01f582.png",
+    "series": 2,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "魔法の腕輪",
+    "image": "5a9c9c87-9486-3b50-afa6-914285ad1611.png",
+    "series": 9,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "烈火の腕輪 ",
+    "image": "973a4214-ca9a-36d0-b8b3-bad731553b8a.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "name": "天雷の腕輪 ",
+    "image": "54246634-b13a-3373-8512-d6fa4c293efe.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "雷",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "name": "チャンピオンベルト",
+    "image": "f9beebe8-49ae-3d95-bbe5-39f45f57b4c7.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 56,
+    "name": "さんごの指輪",
+    "image": "7e7817ef-81ee-332d-b2e4-9e5491580935.png",
+    "series": 9,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "雷",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "name": "パールルージュ",
+    "image": "d78bf407-4180-31f5-90db-a523193604d3.png",
+    "series": 9,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "沈黙耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "name": "巨人の指輪",
+    "image": "46d78d8d-1533-38e5-b94a-9045a43663d7.png",
+    "series": 8,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 500
+      }
+    }
+  },
+  {
+    "id": 59,
+    "name": "極光の腕輪 ",
+    "image": "814b3322-4be7-3651-acbc-22f03fc088c3.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "聖",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "name": "石龍の腕輪",
+    "image": "d3f16790-18f4-338f-beac-57c4d74a8d2b.png",
+    "series": 10,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "石化耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "name": "力だすき",
+    "image": "51232447-3083-3fb6-97d3-d53fe574801e.png",
+    "series": 8,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 300
+      }
+    }
+  },
+  {
+    "id": 62,
+    "name": "マッスルベルト",
+    "image": "b79b041b-139f-30b9-a910-4db93ef3abb6.png",
+    "series": 10,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 63,
+    "name": "魔法の手袋",
+    "image": "31581dcd-edee-3130-8874-69ac6c29b7ac.png",
+    "series": 12,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 150
+      }
+    }
+  },
+  {
+    "id": 64,
+    "name": "パワーグローブ",
+    "image": "4d26c0f5-ccf3-38f3-8c39-3ad6e357509b.png",
+    "series": 10,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 65,
+    "name": "守りの指輪",
+    "image": "ea6f97a9-2fa7-3554-9f34-5c07b5236a91.png",
+    "series": 12,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 66,
+    "name": "そよ風のマント",
+    "image": "f6869bd6-5e3a-3562-b4a5-4f38411c8406.png",
+    "series": 6,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "地",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "name": "オルアケアの腕輪",
+    "image": "0c48e142-50f0-3b5c-ac23-7ab647d67395.png",
+    "series": 12,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 300
+      }
+    }
+  },
+  {
+    "id": 68,
+    "name": "真珠のネックレス",
+    "image": "a32cc3d9-5114-3b28-9ca1-f2990a537a1b.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 69,
+    "name": "伝説の楽譜",
+    "image": "f1270bd0-f4f4-3d85-b871-afaf7359f6b7.png",
+    "series": 4,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 70,
+    "name": "ウルフピアス",
+    "image": "b9e385a2-d9ef-3034-ae04-b3ee060f72a8.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 71,
+    "name": "ドッグタグ",
+    "image": "d797d5c2-2963-3850-8968-6c9c2e4e54e5.png",
+    "series": 7,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 72,
+    "name": "ホープのスカーフ",
+    "image": "d2eb9272-b357-368c-a384-ddbbbd6f2080.png",
+    "series": 13,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "小"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "name": "ブラックベルト",
+    "image": "ef9aea4e-114b-304e-8ab9-0f62bd57a2ed.png",
+    "series": 6,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 74,
+    "name": "呪いの指輪",
+    "image": "0ec65591-80fa-3479-8b39-803d8b47fa5c.png",
+    "series": 5,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 75,
+    "name": "スコールのネックレス",
+    "image": "730861c3-657e-3973-8c0b-cfa33fcd7e2b.png",
+    "series": 8,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 76,
+    "name": "フォースの腕輪",
+    "image": "f10e98e6-29c2-3e88-bc0c-224ad062b83e.png",
+    "series": 8,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 77,
+    "name": "アデプトリング",
+    "image": "74341d1c-132f-3292-9ce9-22aa38d5613a.png",
+    "series": 10,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 78,
+    "name": "炎の指輪",
+    "image": "f8ca4fad-6a3d-31cb-9ae7-d6690cb806df.png",
+    "series": 5,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "name": "サークレット",
+    "image": "aefb7569-3655-3bbb-ac5c-577b3027dfb6.png",
+    "series": 8,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 80,
+    "name": "ルーンの腕輪",
+    "image": "96d1b3ca-2c90-38a4-9aba-879b652a8b7b.png",
+    "series": 8,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 81,
+    "name": "達人の小手",
+    "image": "34b0ec9f-b3d1-30f3-9359-602ba256b8a1.png",
+    "series": 10,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 82,
+    "name": "精銀の小手",
+    "image": "988ae083-b5dc-3c41-91f2-fd064f93f88b.png",
+    "series": 10,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "スロウ耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "name": "魔術の小手",
+    "image": "b1312310-e133-3823-b8e9-ee32d246bf14.png",
+    "series": 10,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 84,
+    "name": "オメガの勲章",
+    "image": "a356b6db-9cb7-3500-974f-9b3cf720db25.png",
+    "series": 5,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 85,
+    "name": "ルビーリング",
+    "image": "e15b71cc-5bf0-3735-8509-1f20fd1d4e2d.png",
+    "series": 14,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 86,
+    "name": "エメラルドリング",
+    "image": "eca1c367-6a65-3c4e-a3d1-f47d5fadaa4a.png",
+    "series": 14,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 87,
+    "name": "フェアリーリング",
+    "image": "5a21c39c-0c2d-30fe-88b8-02f4fb27e58e.png",
+    "series": 6,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "暗闇耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "name": "ブレイザー",
+    "image": "1393658a-7431-3558-8849-ef790039ae00.png",
+    "series": 12,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 89,
+    "name": "パワーリスト",
+    "image": "d51789bf-08db-39c2-ab08-31e7dd7f5ef5.png",
+    "series": 5,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 90,
+    "name": "銀縁眼鏡",
+    "image": "a2de34a4-62b3-301b-bd70-6f3de1f13dc4.png",
+    "series": 5,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "暗闇耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "name": "炎のマント",
+    "image": "bdb536ee-497a-31e7-a9ee-251c34126587.png",
+    "series": 4,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "name": "ゴドーのお面",
+    "image": "f052e5be-f624-3ffb-a3a5-c827dc7b418b.png",
+    "series": 7,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 93,
+    "name": "天使の聖杯",
+    "image": "b2fc2030-f156-3148-a388-cd4c46bc8330.png",
+    "series": 1,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "最大HP+",
+        "potency": 150
+      }
+    }
+  },
+  {
+    "id": 94,
+    "name": "ちびっこハンマー",
+    "image": "04313694-c9f1-3ef3-aaee-3e45c7f51d5b.png",
+    "series": 1,
+    "rare": 3,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 95,
+    "name": "タル",
+    "image": "ddeb938a-dbf4-334f-b8dd-210fbe352456.png",
+    "series": 1,
+    "rare": 2,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 96,
+    "name": "ウォースラの小手",
+    "image": "a95e0a1f-f62b-378b-88ca-e8dbbacc2930.png",
+    "series": 12,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 97,
+    "name": "ティナのペンダント",
+    "image": "c0e6562e-59b3-349e-9316-47e84f7745b6.png",
+    "series": 6,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 98,
+    "name": "クラウドのゴーグル",
+    "image": "709b056c-5b8e-35b6-8bb1-ab27490ba078.png",
+    "series": 7,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "暗闇耐性",
+        "potency": "高"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "name": "タマのすず",
+    "image": "36fd54c1-1885-3375-be7f-e494d2c76abd.png",
+    "series": 7,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 500
+      }
+    }
+  },
+  {
+    "id": 100,
+    "name": "光のカーテン",
+    "image": "518cc0da-52ef-331b-9aee-519375787d68.png",
+    "series": 8,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "聖",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "name": "ネクロフォビアの守護",
+    "image": "6cbb3a66-9a8c-3a99-9a59-12cba7691458.png",
+    "series": 5,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "雷",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "name": "ブレイサー",
+    "image": "1d719b99-e712-3d37-82b3-3db34dcf3cd3.png",
+    "series": 15,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 103,
+    "name": "聖石・アリエス",
+    "image": "3b197a60-f653-346e-b876-e8a905a2f44a.png",
+    "series": 15,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 104,
+    "name": "アデルの額あて",
+    "image": "bc67c715-661e-3aba-b32e-6f761b37eb03.png",
+    "series": 8,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 700
+      }
+    }
+  },
+  {
+    "id": 105,
+    "name": "銀竜の羽",
+    "image": "db95a804-01ef-346e-a5ac-c4ab34bcc9bb.png",
+    "series": 9,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 106,
+    "name": "ギガースの腕輪",
+    "image": "08e89e22-f85a-3073-a6d8-1c39803da742.png",
+    "series": 2,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "氷",
+        "potency": "中"
+      },
+      "2": {
+        "attribution": "雷",
+        "potency": "中"
+      },
+      "3": {
+        "attribution": "水",
+        "potency": "弱"
+      }
+    }
+  },
+  {
+    "id": 107,
+    "name": "きっかけのスフィア",
+    "image": "a0e69aa2-aa24-3840-b60c-04874047d956.png",
+    "series": 10,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 108,
+    "name": "パワーブーストの腕輪",
+    "image": "bc85d6cd-32c5-3c83-9267-7b386c2deb4a.png",
+    "series": 5,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 109,
+    "name": "形見の指輪",
+    "image": "6131cfb0-db79-3242-94e8-48ae14cda358.png",
+    "series": 6,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "即死耐性",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "name": "ケルベロスレリーフ",
+    "image": "21be833f-d8ab-3ce4-90a1-39948fdc09dd.png",
+    "series": 7,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 111,
+    "name": "ドクター・シドの眼鏡",
+    "image": "456648de-b6c5-3db4-9d20-8c729520f003.png",
+    "series": 12,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 112,
+    "name": "ブルタルピアス",
+    "image": "05eb0d37-cefa-38bf-a2bb-ae4ae1e46e15.png",
+    "series": 11,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 113,
+    "name": "女神のピアス",
+    "image": "17a02557-5c3c-3108-818e-02f005ec9215.png",
+    "series": 13,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "雷",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "name": "激流の腕輪 ",
+    "image": "9834599f-4c20-3503-8779-e8acf24e2f88.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "水",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 115,
+    "name": "絶零の腕輪 ",
+    "image": "22817747-1c75-3381-a5ee-8856981fd641.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "氷",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "name": "暴風の腕輪 ",
+    "image": "00434b84-0a81-3388-bbb1-7084d7d8aec4.png",
+    "series": 0,
+    "rare": 6,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "風",
+        "potency": "大"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "name": "グルグストーン",
+    "image": "f7a3ed4d-2cbb-3cac-9919-ff14dbecb4e2.png",
+    "series": 9,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 118,
+    "name": "表裏一体のコイン",
+    "image": "f9773ad3-e4f0-352a-9983-046a1b22fe7c.png",
+    "series": 6,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 119,
+    "name": "黒魔道士のツインスターズ",
+    "image": "34c1c47b-f519-38e0-b998-1cd0925eb1ba.png",
+    "series": 4,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 120,
+    "name": "風来坊のピアス",
+    "image": "80dc9e0f-6b5b-3ff9-97f2-ffe17c5b81a9.png",
+    "series": 3,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "氷",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "name": "ブロンドのかつら",
+    "image": "f701fcf3-fed5-391e-8df0-c07c14e0228d.png",
+    "series": 7,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "睡眠耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "name": "トレマーイヤリング",
+    "image": "32e28bfa-bb6e-3e74-a1ac-5f4b4691f3ae.png",
+    "series": 14,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "地",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 123,
+    "name": "インフェルノバングル",
+    "image": "9c31417e-9542-3048-857d-02642e36fa1d.png",
+    "series": 14,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "炎",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "地",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "name": "究極召喚の勲章",
+    "image": "826ac389-ad5a-3462-9afc-30f4863838f6.png",
+    "series": 10,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 125,
+    "name": "英雄のベルト",
+    "image": "8fcc20cd-4f5b-361b-b7b7-9a4129f339f3.png",
+    "series": 7,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 126,
+    "name": "モグのお守り",
+    "image": "fce5b851-c2ba-3716-bcb7-5e09c08556d8.png",
+    "series": 1,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "混乱耐性",
+        "potency": "中"
+      },
+      "1": {
+        "attribution": "スロウ耐性",
+        "potency": "中"
+      }
+    }
+  },
+  {
+    "id": 127,
+    "name": "神秘の石板",
+    "image": "e4c5a260-09e1-3b94-b090-97d9bc3af524.png",
+    "series": 1,
+    "rare": 4,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 128,
+    "name": "ギルガメッシュの緋色頭巾",
+    "image": "7d10bf0f-20c5-3061-837d-7836c6749277.png",
+    "series": 5,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  },
+  {
+    "id": 129,
+    "name": "シルバーペンダント",
+    "image": "10ca146f-6185-32f0-b9b7-974eff160e81.png",
+    "series": 13,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "最大HP+",
+        "potency": 500
+      }
+    }
+  },
+  {
+    "id": 130,
+    "name": "レナのピアス",
+    "image": "6ba2a293-cc07-3865-ad3a-33c48a2ed320.png",
+    "series": 5,
+    "rare": 5,
+    "attribution": "attribution",
+    "potency": "potency",
+    "remarks": "",
+    "attributions": {
+      "0": {
+        "attribution": "なし",
+        "potency": ""
+      }
+    }
+  }
+]
